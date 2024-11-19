@@ -1,0 +1,12 @@
+[
+    {
+        "postId": 1,
+        "username": "john_doe",
+        "content": "This is a new post!"
+    },
+    {
+        "postId": 2,
+        "username": "john_doe",
+        "content": "This is a new post!"
+    }
+]
